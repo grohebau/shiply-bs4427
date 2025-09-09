@@ -1,0 +1,47 @@
+{
+  "R60815": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Am Brink 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Jörg Landsmann, Peniger Straße 7, 04643 Geithain, Deutschland",
+    "price": "2.100 €",
+    "description": "Hersteller: Simson<br>Typ: S 51<br>Fahrgestelnummer: 5997716<br>Erstzulassung: 02/1988<br>KM laut Vorbesitzer: 12.300 km<br>Leistung: 3 kW (4 PS)<br>Hubraum: 49 cm³<br>Farbe: Grün<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Jörg Landsmann<br>Peniger Straße 7<br>04643 Geithain<br>Deutschland<br>Telefon: +49 162 2624946",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "09-09-2025",
+    "deliveryDate": "12-09-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
